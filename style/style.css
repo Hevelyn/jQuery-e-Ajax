@@ -1,0 +1,32 @@
+.bg-mapa{
+    background: #eeaeca;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, #94bbe995 100%);
+    width: 100%;
+    height: 100vh;
+}
+
+.btn-consultar{
+    width: 15em;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, #94bbe995 100%);
+    border-radius: 7px;
+}
+
+.mapa-img{
+    width: 100%;
+    object-fit: cover;
+    border: 2px solid #eeaeca;
+}
+
+.card{
+    width: 30em;
+}
+
+#cep{
+    display: flex;
+    justify-content: flex-start;
+}
+
+input{
+    color: #066bdd95;
+    font-weight: bold;
+  }

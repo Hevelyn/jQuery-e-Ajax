@@ -1,2 +1,9 @@
 # jQuery-e-Ajax
-Projeto com jQuery e Ajax para aprimorar conhecimentos 
+Projeto simples de busca de CEP com: 
+- jQuery 
+- Ajax 
+- HTML
+- Bootstrap
+- CSS 
+para relembrar conceitos e aprimorar conhecimentos.
+
